@@ -1,0 +1,6 @@
+stu_id:1 name:zh date:5 interval:2 room:3 status:2
+stu_id:1 name:zh date:4 interval:2 room:2 status:0
+stu_id:2 name:zs date:5 interval:2 room:3 status:-1
+stu_id:3 name:ze date:1 interval:3 room:3 status:0
+stu_id:1 name:zh date:4 interval:2 room:2 status:-1
+stu_id:4 name:ke date:4 interval:1 room:3 status:1
